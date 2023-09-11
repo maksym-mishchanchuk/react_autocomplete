@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,UAGC,uBAA2B,CAC5B,qBAIG,wBAA2B","file":"main.27d232d3.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.is-woman {\n  color: indianred !important;\n}\n\n.dropdown-item {\n  &:hover {\n    background-color: lightgrey;\n  }\n}\n"]}
